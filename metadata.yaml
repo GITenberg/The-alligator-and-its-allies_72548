@@ -1,0 +1,28 @@
+_repo: The-alligator-and-its-allies_72548
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reese, Albert M.
+    gutenberg_agent_id: '56726'
+    url: http://www.gutenberg.org/2009/agents/56726
+description: ''
+gutenberg_issued: '2023-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72548'
+language: en
+pgterms:marc904: https://archive.org/details/alligatoritsall00reesuoft
+pgterms:marc905: 20210820082146reese
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: deaurider, Harry Lamé and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aNew York :$bG. P. Putnam''s Sons, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The alligator and its allies
+url: http://www.gutenberg.org/ebooks/72548
